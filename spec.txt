@@ -1,0 +1,20 @@
+modul.py:
+
+- osztály kutya néven
+	-> neve
+	-> fajta
+	-> eletkor
+
+fg, ami redre bekéri kutyák adatait, és visszatér egy kutyákat tartalmazó listával
+ha valamelyik adattagot üresen hagyjuk (nem írunk be semmit) a bekérés befejeződik
+
+- fg, ami visszaadja paraméterben kapott kutyalistában lévő vizslák számát
+
+- fg, ami visszaadja, hogy a paraméterben kapott kutyalistában milyen fajtájú a legöregebb kutya
+
+- elj., ami kiírja a paraméterben kapott listában szereplő összes paraméterben kapott fajtájú kutya nevét
+
+main.py:
+lista kutyamenhely néven,
+meghívva rá az összes modulban lévő fg.
+a fajtakeresésnél a konzolról kérje be az adatot
